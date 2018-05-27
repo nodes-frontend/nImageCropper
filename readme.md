@@ -1,6 +1,2 @@
-# Nodes Galactic Image Cropper
-
-More will come!
-
-------
+# ⛔️ [DEPRECATED] Nodes Galactic Image Cropper
 
