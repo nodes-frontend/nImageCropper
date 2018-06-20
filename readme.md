@@ -1,2 +1,2 @@
-# ⛔️ [DEPRECATED] Nodes Galactic Image Cropper
-
+# Nodes Galactic Image Cropper
+_Not maintained by Nodes anymore_
